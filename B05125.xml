@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religion made a cloak for villan[y] or, The loyal subjects delight, vvho is neither VVigg nor Tory. Being a most pleasant new play song. Alas! what pitty is't, when thus we see religions masques oft cover villany; Tory and Whigg contend for loyalty, when both alike do envy monarchy: the name of Jesuit, Fryar, and Monk's forgot, 'tis Whigg and Tory mannage all the plot, under those names, Rome and Geneva lurk, and daily carry on their cursed work. To the tune of, Now, now the fight's done.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681-1684?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05125</idno>
+            <idno type="STC">Wing R901</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[398]</idno>
+            <idno type="EEBO-CITATION">99887870</idno>
+            <idno type="PROQUEST">ocm99887870</idno>
+            <idno type="VID">183522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183522)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[313])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religion made a cloak for villan[y] or, The loyal subjects delight, vvho is neither VVigg nor Tory. Being a most pleasant new play song. Alas! what pitty is't, when thus we see religions masques oft cover villany; Tory and Whigg contend for loyalty, when both alike do envy monarchy: the name of Jesuit, Fryar, and Monk's forgot, 'tis Whigg and Tory mannage all the plot, under those names, Rome and Geneva lurk, and daily carry on their cursed work. To the tune of, Now, now the fight's done.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.W., J.C., W.T. and T.P.;</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1681-1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Let Tories curse on and the Wiggs let them rage ..."</note>
+                  <note>Imperfect: trimmed, with loss of imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="398" facs="tcp:183522:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>Religion made a Cloak for Villan<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OR <hi>The Loyal Subjects Delight,</hi> Who is neither <hi>VVHIGG</hi> nor <hi>TORY.</hi>
+            </head>
+            <head type="sub">Being a moſt Pleaſant New Play SONG.</head>
+            <argument>
+               <lg>
+                  <l>Alas! what pitty is't, when thus we ſee</l>
+                  <l>Religious Maſques oft cover Villany;</l>
+                  <l>
+                     <hi>Tory</hi> and <hi>Whigg</hi> contend for Loyalty,</l>
+                  <l>When both alike do Envy Monarchy:</l>
+               </lg>
+               <lg>
+                  <l>The Name of <hi>Jeſuit, Fryar,</hi> and <hi>Monk's</hi> forgot,</l>
+                  <l>'Tis <hi>Whigg</hi> and <hi>Tory</hi> mannage all the Plot,</l>
+                  <l>Under thoſe Names, <hi>Rome</hi> and <hi>Geneva</hi> lurk,</l>
+                  <l>And daily carry on their Curſed Work,</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>Now, now the Fight's done.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>LEt <hi>Tories</hi> Curſe and the <hi>Wiggs</hi> let them Rage,</l>
+               <l>While both ſtrive the Nation in Wars to ingage;</l>
+               <l>Whilſt Religion's the Cloak to cover their Sin,</l>
+               <l>And Wrap up Rebellion and Sedition in:</l>
+               <l>Both alike dangerous to Monarchy why?</l>
+               <l>For they up do the Maſs, and the Covenant cry:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects that from Clamour ceaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And pray for the King and the Nations long peace.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When Gun powder Plots to deſtroy us were laid,</l>
+               <l>Then <hi>Tories</hi> and <hi>Whiggs</hi> did each Other upbraid;</l>
+               <l>Tho' then theſe Vile Names they ſo well were not known,</l>
+               <l>Yet <hi>Papiſt</hi> and <hi>Purican</hi> then they did own,</l>
+               <l>And Religion, Religion was then all the cry,</l>
+               <l>Though nothing but miſchief they meant us there,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects that from Clamour ceaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And pray for the King and the Nations long peace.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Religion in <hi>Forty-One</hi> Routed the Laws,</l>
+               <l>Or 'twas a thing call'd ſo, wrapt in the Old Cauſe;</l>
+               <l>O did not <hi>Jack Presbyter</hi> under that Curſe,</l>
+               <l>Deceive all the Simple, and Cheat many Wiſe:</l>
+               <l>The League and the Covenant what were they mo<gap reason="illegible: page cropped" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <l>Then to make Knaves Rich, and all Honeſt men Po<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects that from Clamour ceaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And pray for the King and the Nations long peace.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Was't not true Religion thoſe Villains did plead,</l>
+               <l>Who' gainſt the King, in his Name, Armies did lead.</l>
+               <l>And cry'd, we're the Righteous, to us Plunder's free,</l>
+               <l>And this is the way for to gain Liberty;</l>
+               <l>When as into Slavery they did us all bring,</l>
+               <l>And call'd Religion to Murther their King:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>O they were to be Sainted that Thimbles and Bodkins</l>
+               <l>Vpon Publique Faith were ſent, with many odd things</l>
+               <l>When as the Rump turn'd them to Sack and to Claret</l>
+               <l>Though each old Wife did long after mourn for it:</l>
+               <l>Religion was then the cry, when none was uſed,</l>
+               <l>But in the Name they the thing much abuſed;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>For thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Fift-monarchy</hi> Cullys, Religion did cry,</l>
+               <l>When as to get Plunder they purpos'd thereby;</l>
+               <l>Though 'tis plain, if the Doctor does tell us but right,</l>
+               <l>The <hi>Jeſuits</hi> back'd them and bid them to fight:</l>
+               <l>And now all the noſſe for Religion muſt be,</l>
+               <l>When by ſuch as make the ſtir, none's us'd we ſee:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>For <hi>Tories</hi> whoſe fortunes Ill Husbandry made</l>
+               <l>Bare as their Conſcience, are never afraid</l>
+               <l>To loſe what they have, but would fain be at ſtrife,</l>
+               <l>For why? 'tis Contention they love as their life;</l>
+               <l>What care they for peace or for quiet, ſo they</l>
+               <l>Can Murther and Plunder, and for it have pay:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>In drinking of Healths they do take a great pride,</l>
+               <l>And ſwear they'l be Loyal it they were but try'd;</l>
+               <l>And that for the King and Religion they'l fight,</l>
+               <l>But this with their Actions can not agree right:</l>
+               <l>For why they who Oaths againſt God do ſtill fling,</l>
+               <l>Can ne'r be Religions, and true to their King:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then were <hi>Whigg</hi> and <hi>Tory</hi> that make all this noiſe,</l>
+               <l>And would at all heneſt mens downfalls rejoyce,</l>
+               <l>But once Unmaſqu'd, and you plainly ſhould ſee,</l>
+               <l>As to all Religion Impoſſors they be:</l>
+               <l>For from <hi>Geneva</hi> and <hi>Rome</hi> they are ſent,</l>
+               <l>To trouble the Nation, and raiſe diſcontent:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But thoſe are good Subjects, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Religion 'tis Sacred when rightly 'tis us'd,</l>
+               <l>But in no age it was ne'r more abuſ'd;</l>
+               <l>For why, for the moſt part a Cloak it is made,</l>
+               <l>To cover vile Treaſon, or elſe 'tis a Trade;</l>
+               <l>But Heaven defend it from ſuch wicked men,</l>
+               <l>And make it to flouriſh and proſper agen:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Whilſt thoſe are good Subjects that from Clamour ceaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>and pray for the King and the Nations long peace.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
